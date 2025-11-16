@@ -19,6 +19,9 @@ classifiers = [
   "Programming Language :: Python"
 ]
 
+[project.scripts]
+tooth-python = "tooth.__main__:main"
+
 [project.urls]
 Repository = "https://github.com/Cheesecake2960/tooth.git"
 Issues = "https://github.com/Cheesecake2960/tooth/issues"
