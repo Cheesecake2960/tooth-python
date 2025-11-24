@@ -23,5 +23,5 @@ classifiers = [
 tooth-python = "tooth.__main__:main"
 
 [project.urls]
-Repository = "https://github.com/Cheesecake2960/tooth.git"
-Issues = "https://github.com/Cheesecake2960/tooth/issues"
+Repository = "https://github.com/Team-Tooth/tooth-python.git"
+Issues = "https://github.com/Team-Tooth/tooth-python/issues"
